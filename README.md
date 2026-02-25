@@ -29,10 +29,10 @@ http://localhost:8080
 
 ## API Endpoints
 
-| Method | Endpoint         | Description      |
-|--------|-----------------|-------------------|
-| GET    | /api/todos       | Get all todos    |
-| GET    | /api/todos/{id}  | Get a todo       |
-| POST   | /api/todos       | Create a todo    |
-| PUT    | /api/todos/{id}  | Update a todo    |
-| DELETE | /api/todos/{id}  | Delete a todo    |
+| Method | Endpoint         | Description         |
+|--------|-----------------|----------------------|
+| GET    | /api/v1/todos       | Get all todos    |
+| GET    | /api/v1/todos/{id}  | Get a todo       |
+| POST   | /api/v1/todos       | Create a todo    |
+| PUT    | /api/v1/todos/{id}  | Update a todo    |
+| DELETE | /api/v1/todos/{id}  | Delete a todo    |
