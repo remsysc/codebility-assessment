@@ -12,7 +12,7 @@
 ### 1. Clone the repository
 ```bash
 git clone git@github.com:remsysc/codebility-assessment.git
-cd your-repo
+cd codebility-assessment/backend/
 ```
 
 ### 2. Run the application
