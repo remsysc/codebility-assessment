@@ -30,8 +30,9 @@ http://localhost:8080
 ## API Endpoints
 
 | Method | Endpoint         | Description      |
-|--------|-----------------|------------------|
+|--------|-----------------|-------------------|
 | GET    | /api/todos       | Get all todos    |
+| GET    | /api/todos/{id}  | Get a todo       |
 | POST   | /api/todos       | Create a todo    |
 | PUT    | /api/todos/{id}  | Update a todo    |
 | DELETE | /api/todos/{id}  | Delete a todo    |
