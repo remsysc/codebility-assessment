@@ -26,6 +26,10 @@ cd codebility-assessment/backend/
 ```
 http://localhost:8080
 ```
+## Postman Documentation
+```
+https://documenter.getpostman.com/view/46218722/2sBXcGEf7j
+```
 
 ## API Endpoints
 
