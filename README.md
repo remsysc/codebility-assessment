@@ -1,4 +1,4 @@
-# Project Name
+# Simple TODO API
 
 Brief description of what this project does.
 
