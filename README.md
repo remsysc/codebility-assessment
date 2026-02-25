@@ -1,7 +1,7 @@
 # Simple TODO API
 
-Brief description of what this project does.
-
+ A simple todo app
+ 
 ## Prerequisites
 
 - Java 17+
